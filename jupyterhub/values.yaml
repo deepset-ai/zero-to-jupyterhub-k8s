@@ -538,6 +538,7 @@ prePuller:
 
 ingress:
   enabled: false
+  # ingressClassName:
   annotations: {}
   hosts: []
   pathSuffix:
